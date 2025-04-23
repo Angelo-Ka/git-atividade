@@ -1,0 +1,6 @@
+O que é Programação?
+Programação é o processo de escrever, testar e manter códigos que instruem um computador a realizar tarefas específicas. Por meio de linguagens de programação, como Python, JavaScript, Java, C++ e muitas outras, os programadores criam softwares, sites, aplicativos, jogos e sistemas que fazem parte do nosso dia a dia.
+
+Aprender a programar desenvolve o raciocínio lógico, a capacidade de resolver problemas e a criatividade. Além disso, é uma das habilidades mais valorizadas no mercado de trabalho atual, com aplicações em diversas áreas como tecnologia, finanças, saúde, educação e entretenimento.
+
+Com o avanço da inteligência artificial, da automação e da ciência de dados, a programação se tornou uma ferramenta essencial para o futuro. Seja para criar soluções inovadoras ou apenas entender melhor o mundo digital, aprender a programar é um investimento que abre portas e possibilita transformar ideias em realidade.
